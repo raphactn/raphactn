@@ -1,7 +1,7 @@
-## Olá! Seja bem vindo
+## Hi! Be welcome
 
-- 🔭 Trabalhando em projetos Front end.
-- 🌱 Estudando JavaScrip - TypeScript.
+- 🔭 Working on Front end projects.
+- 🌱 Studying JavaScrip - TypeScrip.
 
 
 
